@@ -1,4 +1,4 @@
-# 💬 Mern_ChatApp — MERN Stack Real-Time Chat App
+# 💬MERN Stack Real-Time Chat App
 
 A full-stack real-time chat application built with the MERN stack and Socket.IO. Mern_ChatApp allows users to register, login, chat instantly, update profiles, and share images — all with a sleek, modern UI.
 
